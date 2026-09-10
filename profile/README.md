@@ -9,12 +9,22 @@
 Decision Terrain helps defense, intelligence, and national-security teams turn emerging AI into clear decisions, bounded prototypes, and mission-ready capabilities. We combine mission experience with hands-on AI engineering to help organizations decide what to pursue, what to test first, and how to move forward with evidence.
 
 <p align="center">
-  <strong><a href="https://decisionterrain.com/contact">Discuss your AI decision</a></strong>
+  <strong><a href="https://decisionterrain.com/tools/nist-ai-rmf-checklist">Try the free NIST AI RMF Checklist</a></strong>
+  ·
+  <a href="https://decisionterrain.com/contact">Discuss your AI decision</a>
   ·
   <a href="https://decisionterrain.com/services">Explore defense AI consulting services</a>
-  ·
-  <a href="https://decisionterrain.com/resources">Use free AI planning tools</a>
 </p>
+
+## Featured tool: NIST AI RMF Checklist
+
+Give your AI system a nutrition label. **AI Facts by Decision Terrain** helps you document system facts, safeguards, evidence, and unanswered questions with 40 core checks mapped to the NIST AI Risk Management Framework, plus six optional checks for generative AI and agents.
+
+Use the free browser tool to create a shareable AI nutrition label and download your assessment. No account required; your answers stay in your browser, where drafts are saved locally.
+
+**[Create your AI nutrition label →](https://decisionterrain.com/tools/nist-ai-rmf-checklist)** · [Explore the source, checklist, and templates on GitHub →](https://github.com/decisionterrain/nist-ai-rmf-checklist)
+
+*Public alpha. An independent Decision Terrain project, not affiliated with NIST. Answers are self-reported; the tool does not verify evidence or certify systems.*
 
 ## From uncertainty to decision-quality evidence
 
@@ -39,7 +49,7 @@ The result is a recommendation stakeholders can examine and defend—not a gener
 
 ## Free, browser-only AI planning tools
 
-Our ungated planning tools run locally in the browser and do not submit or store worksheet answers.
+The three ungated worksheets below run locally in the browser and do not submit or store worksheet answers.
 
 - [**Mission AI Readiness Worksheet**](https://decisionterrain.com/resources/mission-ai-readiness-worksheet) — examine mission, data, technology, governance, evidence, and adoption conditions.
 - [**AI Technology Evaluation Scorecard**](https://decisionterrain.com/resources/ai-technology-evaluation-scorecard) — compare two options across seven weighted mission and lifecycle criteria.
