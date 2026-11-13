@@ -4,18 +4,24 @@
   </a>
 </p>
 
-# Governance and auditability for AI in action.
+# Auditable AI agents for enterprise and government
 
-Decision Terrain is building an agentic AI platform centered on operational control: defining what agents may do, requiring human approval where it matters, and retaining evidence of what actually happened.
+Decision Terrain is an enterprise AI agent platform for persistent work across your systems, with scoped access, human review for supported actions, and inspectable records.
 
-Our focus is making AI actions accountable—from the systems and data accessed to the changes made as a result. We work on practical applications for enterprise and government, including self-hosted and air-gapped environments.
+**Auditable AI agents** let authorized reviewers inspect recorded actions, authority, approvals, and outcomes, with missing evidence and capture limits made explicit. Decision Terrain connects those records to the controls that govern supported agent actions.
 
-## Our technical focus
+**[Explore auditable AI agents](https://decisionterrain.com/?utm_source=github&utm_medium=referral&utm_campaign=auditable_ai_agents&utm_content=org_profile_home)** · **[See the AI agent audit trail and demo](https://decisionterrain.com/platform/audit?utm_source=github&utm_medium=referral&utm_campaign=auditable_ai_agents&utm_content=org_profile_audit)**
 
-- **Agent governance:** permissions, policy-controlled tool use, and approval workflows.
-- **Auditability:** traceable actions, data access records, and evidence of outcomes.
-- **Deployment control:** integrating models, tools, and data within organizational boundaries.
-- **Evaluation:** testing agent behavior against operational requirements and policy boundaries.
+## Inspect how agents act
+
+- **[Audit trails and evidence](https://decisionterrain.com/platform/audit):** follow recorded requests, attempted actions, policy decisions, and outcomes. See where links or evidence are missing.
+- **[Governance and human oversight](https://decisionterrain.com/platform/security):** scope identities, credentials, tools, and operations. Require exact-call review for supported operations configured for approval.
+- **[SIEM and security operations](https://decisionterrain.com/platform/siem):** forward selected audit events to your security stack. Where enabled, a scoped API can place an agent on hold; an authorized person releases it.
+- **[Deployment control](https://decisionterrain.com/platform/deployment):** run on your own hardware or cloud account, including supported air-gapped configurations.
+
+Available controls and evidence depend on the deployment, supported execution paths, enabled capture, permissions, and retention. The audit demo uses actual local development UI with fictional data; recorded links do not expose hidden model reasoning or prove complete capture.
+
+For a practical evaluation method, read our **[AI agent governance framework and checklist](https://decisionterrain.com/resources/ai-agent-governance)**.
 
 ## Featured project: AI Facts
 
@@ -27,17 +33,23 @@ Document system facts, safeguards, supporting evidence, and unanswered questions
 
 *Public alpha. An independent Decision Terrain project, not affiliated with NIST. Answers are self-reported; the tool does not verify evidence or certify systems.*
 
-## Engineering and advisory
+## More open resources
 
-We also help teams assess AI readiness, evaluate technologies, prototype workflows, and integrate AI into existing operations. Governance, evidence, and human oversight guide that work from the beginning.
+Our **[AI deployment guides and tools](https://github.com/decisionterrain/ai-guides-and-tools)** catalog brings together annotated resources for strategy, governance, security, evaluation, procurement, and operations.
 
-[Explore our services](https://decisionterrain.com/services) · [Browse practical guides and planning tools](https://decisionterrain.com/resources)
+[Browse Decision Terrain's practical guides and planning tools](https://decisionterrain.com/resources)
+
+## Engineering and support
+
+Your team can build on the platform, with optional Decision Terrain engineering for integration, deployment, evaluation, training, and handoff.
+
+[Explore engineering and support](https://decisionterrain.com/services)
 
 ## Connect
 
 We’re interested in connecting with teams working on agent evaluation, AI security, and accountable automation.
 
-[Discuss your use case](https://decisionterrain.com/contact) · [info@decisionterrain.com](mailto:info@decisionterrain.com)
+[Discuss your use case](https://decisionterrain.com/contact?utm_source=github&utm_medium=referral&utm_campaign=auditable_ai_agents&utm_content=org_profile_contact) · [info@decisionterrain.com](mailto:info@decisionterrain.com)
 
 Please keep inquiries unclassified and non-sensitive.
 
